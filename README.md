@@ -24,10 +24,7 @@ Perform static and dynamic malware analysis in a safe, isolated lab.
 ### 🔹 [Create CTF Challenges](https://github.com/ayoubkhachane/CTF-Challenges)
 Design and host Capture The Flag challenges for learning and fun!
 
----
-
-## 💻 Bonus Projects (Coding & Automation)
-### 🔹 [Cyber Tools & Scripts](https://github.com/ayoubkhachane/CyberTools)
+### 🔹 [Bonus: Cyber Tools & Scripts](https://github.com/ayoubkhachane/CyberTools)
 Small Python, Bash, and PowerShell scripts for automation, scanning, and analysis.
 
 ---
