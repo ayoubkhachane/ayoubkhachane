@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Ayoub! 👋</h1>
 
 <p align="center">
-  <b>Cybersecurity Enthusiast | Network & SIEM Builder | Blue & Red Team Learner</b><br/>
-  <i>“Every day is another opportunity to learn and secure the digital world.”</i>
+  <b>Cybersecurity Enthusiast & Builder | Network & SIEM | Secure Application Development</b><br/>
+  <i>“Every day is another opportunity to build, break, and secure the digital world.”</i>
 </p>
 
 ---
@@ -29,12 +29,20 @@ Small Python, Bash, and PowerShell scripts for automation, scanning, and analysi
 
 ---
 
+## 🛠️ Secure Development & Tooling
+*“To defend an asset, you must first understand how it is built.”*
+
+### 🔹 [Gestion de Stock - JavaFX](https://github.com/ayoubkhachane/gestion-stock-javafx)
+Application desktop JavaFX avec base de données MySQL. Développée avec une attention portée à la gestion et à la structuration sécurisée des données (CRUD, Dashboard, Export PDF, Gestion des catégories).
+
+---
+
 ## 🧠 Skills & Tools
 **Networking:** LAN/WAN, Firewalls, VLANs, pfSense  
 **Security:** SIEM, IDS/IPS, Threat Detection, Honeypots  
 **Systems:** Windows Server, Linux (Ubuntu/Kali), Active Directory  
 **Tools:** Wireshark, Nmap, Wazuh, ELK, Splunk, Burp Suite, Metasploit  
-**Languages:** Python, Bash, PowerShell  
+**Languages:** Python, Bash, PowerShell, Java, SQL  
 
 ---
 
