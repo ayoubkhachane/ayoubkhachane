@@ -48,14 +48,24 @@ Application desktop JavaFX avec base de données MySQL. Développée avec une at
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Tech Stack
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayoubkhachane&show_icons=true&theme=radical" alt="Ayoub's GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayoubkhachane&layout=compact&theme=radical" height="165"/>
+  <img src="https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wazuh-004493?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" />
 </p>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayoubkhachane&theme=react-dark" alt="Ayoub's Activity Graph"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
+
+**📌 Pinned repositories** on my profile page above showcase the 6 projects directly — Network-Lab through CyberTools, in build order.
 
 ---
 
